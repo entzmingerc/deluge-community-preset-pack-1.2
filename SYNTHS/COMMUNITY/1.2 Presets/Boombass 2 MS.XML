@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="c1.2.0"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="mono"
+	voicePriority="1"
+	mode="subtractive"
+	modFXType="none"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	filterRoute="H2L"
+	clippingAmount="4"
+	maxVoices="8">
+	<osc1
+		type="saw"
+		transpose="-12"
+		cents="0"
+		retrigPhase="-1" />
+	<osc2
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #2.wav"
+				transpose="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="295367" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #3.wav"
+				transpose="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="294220" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #4.wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="293833" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #5.wav"
+				transpose="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290457" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #6.wav"
+				transpose="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="288323" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #7.wav"
+				transpose="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="285899" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #8.wav"
+				transpose="5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290499" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #9.wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="293899" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #10.wav"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="292089" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #11.wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290205" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #12.wav"
+				transpose="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="291446" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #13.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="288636" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #14.wav"
+				transpose="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="294705" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #15.wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="296622" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #16.wav"
+				transpose="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="286908" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #17.wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="294163" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #18.wav"
+				transpose="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="287503" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #19.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="297633" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #20.wav"
+				transpose="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="285389" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #21.wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="293292" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #22.wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="297963" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #23.wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290033" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #24.wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="287759" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #25.wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="298144" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #26.wav"
+				transpose="-13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290848" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #27.wav"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="287612" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #28.wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="284925" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #29.wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="295945" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #30.wav"
+				transpose="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="283090" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #31.wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="289601" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #32.wav"
+				transpose="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="289591" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #33.wav"
+				transpose="-20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="297151" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #34.wav"
+				transpose="-21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="288813" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #35.wav"
+				transpose="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="296158" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #36.wav"
+				transpose="-23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="292175" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #37.wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="292053" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #38.wav"
+				transpose="-25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="292109" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #39.wav"
+				transpose="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="291176" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #40.wav"
+				transpose="-27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="296644" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #41.wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="293082" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #42.wav"
+				transpose="-29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="295710" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #43.wav"
+				transpose="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="298810" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #44.wav"
+				transpose="-31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="300830" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #45.wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="299151" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #46.wav"
+				transpose="-33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="298367" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #47.wav"
+				transpose="-34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="292955" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #48.wav"
+				transpose="-35">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290045" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #49.wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="293575" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #50.wav"
+				transpose="-37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="295756" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #51.wav"
+				transpose="-38">
+				<zone
+					startSamplePos="0"
+					endSamplePos="292640" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #52.wav"
+				transpose="-39">
+				<zone
+					startSamplePos="0"
+					endSamplePos="2851" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #53.wav"
+				transpose="-40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="296947" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #54.wav"
+				transpose="-41">
+				<zone
+					startSamplePos="0"
+					endSamplePos="279201" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #55.wav"
+				transpose="-42">
+				<zone
+					startSamplePos="0"
+					endSamplePos="2764" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #56.wav"
+				transpose="-43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="283351" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #57.wav"
+				transpose="-44">
+				<zone
+					startSamplePos="0"
+					endSamplePos="5799" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="105"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #58.wav"
+				transpose="-45">
+				<zone
+					startSamplePos="0"
+					endSamplePos="1485" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #59.wav"
+				transpose="-46">
+				<zone
+					startSamplePos="0"
+					endSamplePos="287792" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #60.wav"
+				transpose="-47">
+				<zone
+					startSamplePos="0"
+					endSamplePos="1593" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="108"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #61.wav"
+				transpose="-48">
+				<zone
+					startSamplePos="0"
+					endSamplePos="292762" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="109"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #62.wav"
+				transpose="-49">
+				<zone
+					startSamplePos="0"
+					endSamplePos="296955" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #63.wav"
+				transpose="-50">
+				<zone
+					startSamplePos="0"
+					endSamplePos="284996" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="111"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #64.wav"
+				transpose="-51">
+				<zone
+					startSamplePos="0"
+					endSamplePos="470" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="112"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #65.wav"
+				transpose="-52">
+				<zone
+					startSamplePos="0"
+					endSamplePos="282859" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="113"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #66.wav"
+				transpose="-53">
+				<zone
+					startSamplePos="0"
+					endSamplePos="4473" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="114"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #67.wav"
+				transpose="-54">
+				<zone
+					startSamplePos="0"
+					endSamplePos="291932" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="115"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #68.wav"
+				transpose="-55">
+				<zone
+					startSamplePos="0"
+					endSamplePos="2987" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="116"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #69.wav"
+				transpose="-56">
+				<zone
+					startSamplePos="0"
+					endSamplePos="282826" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Boombass 2 Ms/SkewBass - Marker #70.wav"
+				transpose="-57">
+				<zone
+					startSamplePos="0"
+					endSamplePos="5249" />
+			</sampleRange>
+		</sampleRanges>
+	</osc2>
+	<lfo1 type="triangle" syncLevel="0" syncType="0" />
+	<lfo2 type="triangle" syncLevel="0" syncType="0" />
+	<unison num="2" detune="8" spread="0" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0xC28F5C1D"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x147AE12D"
+		oscAPulseWidth="0x2B851EA8"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0x0F5C28DC"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x4CCCCCA8"
+		pan="0x00000000"
+		lpfFrequency="0x14000000"
+		lpfResonance="0xB2000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x051EB83A"
+		lfo2Rate="0xC28F5C1D"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x16000000"
+		delayFeedback="0x9C000000"
+		reverbAmount="0xA6000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000"
+		compressorThreshold="0x00000000"
+		lpfMorph="0x80000000"
+		hpfMorph="0x80000000"
+		waveFold="0x80000000"
+		ratchetProbability="0x80000000"
+		ratchetAmount="0x80000000"
+		sequenceLength="0x80000000"
+		rhythm="0x80000000">
+		<envelope1
+			attack="0x8A3D70A2"
+			decay="0xC28F5C1D"
+			sustain="0x428F5C06"
+			release="0xDC28F5B2" />
+		<envelope2
+			attack="0xF0A3D6F6"
+			decay="0xE6666654"
+			sustain="0xF5C28F47"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+			<patchCable
+				source="envelope2"
+				destination="lpfFrequency"
+				amount="0x1333332C" />
+			<patchCable
+				source="lfo2"
+				destination="oscAPhaseWidth"
+				amount="0x1851EB7C" />
+			<patchCable
+				source="lfo1"
+				destination="pitch"
+				amount="0x0147AE14" />
+			<patchCable
+				source="note"
+				destination="oscBVolume"
+				amount="0xDC28F5D0" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="7"
+		syncType="0"
+		arpMode="off"
+		noteMode="up"
+		octaveMode="up"
+		mpeVelocity="off" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="7"
+		syncType="0" />
+	<sidechain
+		attack="327244"
+		release="936"
+		syncLevel="6"
+		syncType="0" />
+	<audioCompressor
+		attack="83886080"
+		release="83886080"
+		thresh="0"
+		ratio="1073741824"
+		compHPF="0"
+		compBlend="2147483647" />
+</sound>

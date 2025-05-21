@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="c1.2.0"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="poly"
+	voicePriority="2"
+	mode="subtractive"
+	modFXType="none"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	filterRoute="H2L"
+	maxVoices="16">
+	<osc1
+		type="sample"
+		loopMode="2"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-C0-127.wav"
+				transpose="36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="576208"
+					startLoopPos="74451"
+					endLoopPos="254723" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-E0-127.wav"
+				transpose="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="577907"
+					startLoopPos="78335"
+					endLoopPos="235717" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-G#0-127.wav"
+				transpose="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="573896"
+					startLoopPos="47404"
+					endLoopPos="221132" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-C1-127.wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="576733"
+					startLoopPos="69495"
+					endLoopPos="245821" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-E1-127.wav"
+				transpose="20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="581232"
+					startLoopPos="72030"
+					endLoopPos="214104" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-G#1-127.wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="581876"
+					startLoopPos="122623"
+					endLoopPos="242108" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-C2-127.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="587410"
+					startLoopPos="105388"
+					endLoopPos="225602" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-E2-127.wav"
+				transpose="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="584725"
+					startLoopPos="93332"
+					endLoopPos="236798" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-G#2-127.wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="580230"
+					startLoopPos="127692"
+					endLoopPos="223195" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-C3-127.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="588451"
+					startLoopPos="137371"
+					endLoopPos="235419" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-E3-127.wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="587713"
+					startLoopPos="91400"
+					endLoopPos="252195" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-G#3-127.wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="573954"
+					startLoopPos="92110"
+					endLoopPos="221522" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-C4-127.wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="569670"
+					startLoopPos="103021"
+					endLoopPos="217802" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-E4-127.wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="592251"
+					startLoopPos="95010"
+					endLoopPos="234735" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-G#4-127.wav"
+				transpose="-20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="587885"
+					startLoopPos="109248"
+					endLoopPos="223859" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-C5-127.wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="578363"
+					startLoopPos="58162"
+					endLoopPos="142199" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-E5-127.wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="568594"
+					startLoopPos="85618"
+					endLoopPos="217706" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-G#5-127.wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="554028"
+					startLoopPos="83072"
+					endLoopPos="207007" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-C6-127.wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="536565"
+					startLoopPos="99759"
+					endLoopPos="204795" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-E6-127.wav"
+				transpose="-40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="505221"
+					startLoopPos="79348"
+					endLoopPos="184264" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/Rusty Blade-G6-127.wav"
+				transpose="-43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="479900"
+					startLoopPos="67072"
+					endLoopPos="253006" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="15"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/12.c0.wav"
+				transpose="45"
+				cents="-38">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277525" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="18"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/16.e0.wav"
+				transpose="44"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277062" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="22"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/20.g#0.wav"
+				transpose="40"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277999" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/24.c1.wav"
+				transpose="36"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278049" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/28.e1.wav"
+				transpose="32"
+				cents="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277020" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/32.g#1.wav"
+				transpose="28"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278933" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/36.c2.wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278704" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/40.e2.wav"
+				transpose="22"
+				cents="43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277072" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/48.c3.wav"
+				transpose="20"
+				cents="45">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278537" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/52.e3.wav"
+				transpose="20"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277277" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/56.g#3.wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278757" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/60.c4.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278558" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/64.e4.wav"
+				transpose="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277501" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/68.g#4.wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278545" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/72.c5.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278360" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/76.e5.wav"
+				transpose="-4"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277617" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/COMMUNITY/1.2 Presets/Rusty Blade/80.g#5.wav"
+				transpose="-8"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="278299" />
+			</sampleRange>
+		</sampleRanges>
+	</osc2>
+	<lfo1 type="triangle" syncLevel="0" syncType="0" />
+	<lfo2 type="triangle" syncLevel="0" syncType="0" />
+	<unison num="1" detune="8" spread="0" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x8A000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0xF0A3D6F6"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0xC7AE146E"
+		volume="0xFAE14798"
+		pan="0x00000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x8E000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0xEC000000"
+		reverbAmount="0x0E000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x9A000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000"
+		compressorThreshold="0x0F5C28F3"
+		lpfMorph="0x80000000"
+		hpfMorph="0x80000000"
+		waveFold="0x80000000"
+		ratchetProbability="0x80000000"
+		ratchetAmount="0x80000000"
+		sequenceLength="0x80000000"
+		rhythm="0x80000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0xCC000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+			<patchCable
+				source="lfo1"
+				destination="pitch"
+				amount="0x07000000" />
+		</patchCables>
+		<equalizer
+			bass="0x54000000"
+			treble="0x14000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="7"
+		syncType="0"
+		arpMode="off"
+		noteMode="up"
+		octaveMode="up"
+		mpeVelocity="off" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+	<delay
+		pingPong="1"
+		analog="1"
+		syncLevel="5"
+		syncType="0" />
+	<sidechain
+		attack="327244"
+		release="936"
+		syncLevel="6"
+		syncType="0" />
+	<audioCompressor
+		attack="83886080"
+		release="83886080"
+		thresh="257698035"
+		ratio="1073741824"
+		compHPF="0"
+		compBlend="2147483647" />
+</sound>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="c1.2.0"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	modFXType="none"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	filterRoute="H2L"
+	maxVoices="8">
+	<osc1
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="16"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - E3.wav"
+				transpose="44"
+				cents="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="244887" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="18"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - F3.wav"
+				transpose="43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241960" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="20"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - G3.wav"
+				transpose="41">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242157" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="21"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - A3.wav"
+				transpose="39">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242748" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="23"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - B3.wav"
+				transpose="37"
+				cents="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241764" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - C4.wav"
+				transpose="36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241960" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - D4.wav"
+				transpose="34"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241511" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="28"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - E4.wav"
+				transpose="32"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="243028" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - F4.wav"
+				transpose="31"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241943" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - G4.wav"
+				transpose="29"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241483" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - A4.wav"
+				transpose="27"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241945" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="35"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - B4.wav"
+				transpose="25"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="243034" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - C5.wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241874" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - D5.wav"
+				transpose="22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241962" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - E5.wav"
+				transpose="20"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242360" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - F5.wav"
+				transpose="19"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241715" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - G5.wav"
+				transpose="17"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242190" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - A5.wav"
+				transpose="15"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241776" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - B5.wav"
+				transpose="13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242531" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - C6.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242185" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - D6.wav"
+				transpose="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241330" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - E6.wav"
+				transpose="8"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242188" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - F6.wav"
+				transpose="7"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242591" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - G6.wav"
+				transpose="5"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241908" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - A6.wav"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="242148" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - B6.wav"
+				transpose="1"
+				cents="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="241577" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/COMMUNITY/1.2 Presets B-Sides/Galactic Bass/LAB - GB - C7.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="210777" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncLevel="0" syncType="0" />
+	<lfo2 type="triangle" syncLevel="0" syncType="0" />
+	<unison num="1" detune="8" spread="0" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x0F5C28DC"
+		pan="0x00000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x80000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000"
+		compressorThreshold="0x00000000"
+		lpfMorph="0x80000000"
+		hpfMorph="0x80000000"
+		waveFold="0x80000000"
+		ratchetProbability="0x80000000"
+		ratchetAmount="0x80000000"
+		sequenceLength="0x80000000"
+		rhythm="0x80000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x9E000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+			<patchCable
+				source="compressor"
+				destination="volumePostReverbSend"
+				amount="0x0D800000" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="1"
+		syncLevel="6"
+		syncType="0"
+		arpMode="off"
+		noteMode="up"
+		octaveMode="up"
+		mpeVelocity="off" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="7"
+		syncType="0" />
+	<sidechain
+		attack="327244"
+		release="936"
+		syncLevel="6"
+		syncType="0" />
+	<audioCompressor
+		attack="83886080"
+		release="83886080"
+		thresh="0"
+		ratio="1073741824"
+		compHPF="0"
+		compBlend="2147483647" />
+</sound>

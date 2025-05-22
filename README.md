@@ -12,7 +12,7 @@ SYNTHS/COMMUNITY/1.2 Presets B-Sides/
 
 There are tons of great presets in both folders, have fun exploring all the sounds!  
 
-Shoutout to (in no particular order) Mark Young, Metamere, abstractrealism shoshin, James Macaulay, Bay Mud, ok reza, ilovesteak, sean good vibes, labyrinthofspirits, nikodemus, TerrificRabbit, Wirt, Andrew (legendary voting website) and the dozen other people in the Discord thread who chimed in to help us all get this across the finish line! Thank you so much, it couldn't have happened without you all!  
+Shoutout to (in no particular order) Mark Young, Metamere, abstractrealism shoshin, James MacAulay, Bay Mud, ok reza, ilovesteak, sean good vibes, labyrinthofspirits, nikodemus, TerrificRabbit, Wirt, Andrew (legendary voting website) and the dozen other people in the Discord thread who chimed in to help us all get this across the finish line! Thank you so much, it couldn't have happened without you all!  
 
 # Preset Notes  
 "MPE" was added to the names of presets tagged wtih MPE which are intended to be played with an MPE MIDI controller. Saumur Piano is a public piano that sits outside all summer next to the Loire. Samples were recorded by hand and used to make the preset. Frances2 was made by shoshin's 8 year old daughter.  
